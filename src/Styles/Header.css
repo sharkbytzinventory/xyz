@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* Customize the Navbar for mobile view */
+@media (max-width: 767px) {
+    .navbar-brand {
+      margin-right: 0;
+    }
+  
+    .navbar-collapse {
+      text-align: center;
+    }
+  
+    .navbar-nav {
+      width: 100%;
+      text-align: center;
+    }
+  
+    .navbar-nav .nav-link {
+      display: block;
+      padding: 10px;
+    }
+  }
+  
